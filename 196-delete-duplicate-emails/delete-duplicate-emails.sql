@@ -1,0 +1,3 @@
+DELETE P1 FROM PERSON P1
+JOIN PERSON P2
+ON P1.email = P2.email AND p1.id >p2.id;
