@@ -1,17 +1,17 @@
-# 🚀 LeetCode Solutions & Progress Tracker
+# 🚀 LeetCode Solutions – Preethi ST
 
-This repository contains my **LeetCode problem solutions**, organized by difficulty and topic.  
-I use this repo to consistently practice **DSA**, improve problem-solving skills, and track my progress publicly.
+This repository contains my **LeetCode problem solutions**, organized by difficulty.  
+I use this space to consistently practice **Data Structures & Algorithms**, prepare for **technical interviews**, and track my problem-solving progress.
 
 ---
 
-## 📊 Live LeetCode Stats (Auto-Updating)
+## 📊 Live LeetCode Progress (Auto-Updating)
 
-> This section updates dynamically every time the README loads.
+> This section updates automatically based on my LeetCode profile.
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=preethiST)
 
-🔁 **No manual updates required**
+🔗 LeetCode Profile: https://leetcode.com/u/preethiST/
 
 ---
 
